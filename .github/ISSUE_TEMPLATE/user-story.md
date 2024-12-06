@@ -7,17 +7,17 @@ assignees: ''
 
 ---
 
-**En tant que** [rôle]  
- **J'ai besoin de** [fonction]  
- **Pour que** [bénéfice]  
+**As a** [role]  
+ **I need** [function]  
+ **So that ** [benefict]  
    
- ### Détails et hypothèses
- * [documentez ce que vous savez]
+ ### Details and assumptions
+ * document what you know
    
- ### Critères d'acceptation  
+ ### Acceptance criteria  
    
  ```gherkin
- Étant donné [certain contexte]
- Quand [une certaine action est effectuée]
- Alors [le résultat de l'action est observé]
+ Given [certain context]
+ When [a certain action is performed]
+ Then [the result of the action is observed]
  ```
